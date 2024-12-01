@@ -22,3 +22,9 @@
 
 <code>docker build -t todo-app .</code>
 <code>docker run -p 3000:3000 todo-app</code>
+
+Демонстрация работы приложения
+
+
+https://github.com/user-attachments/assets/287365b7-c656-444e-99e4-9c3da5e22970
+
