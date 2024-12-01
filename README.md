@@ -14,6 +14,8 @@
 
 <code>npm install</code>
 
+## Запуск
+
 Чтобы запустить приложение, используйте команду:
 
 <code>npm start</code>
